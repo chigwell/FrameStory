@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='FrameStory',
-    version='0.1.3',
+    version='2025.4.231619',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='A Python package for creating video descriptions by analyzing and extracting significant frames.',
